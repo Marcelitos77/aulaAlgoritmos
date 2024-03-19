@@ -1,0 +1,6 @@
+print("Programa de idade")
+print("")
+entrada = input ("digite a sua idade: ")
+print("A sua idade é " + entrada)
+type(entrada)
+print(type(entrada))
