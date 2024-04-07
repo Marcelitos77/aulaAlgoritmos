@@ -1,7 +1,7 @@
 valor = int(input("digite um valor: "))
 
 nome = "Marcelo Siqueira Oliveira"
-ra = "105139241006"
+ra = "1051392411006"
 turma = "Desenvolvimento de Software Multiplataforma"
 
 print("")

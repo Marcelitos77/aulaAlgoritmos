@@ -6,7 +6,7 @@ nota2 = float(input("Digite a segunda nota: "))
 media = (nota1 + nota2) / 2
 
 nome = "Marcelo Siqueira Oliveira"
-ra = "105139241006"
+ra = "1051392411006"
 turma = "Desenvolvimento de Software Multiplataforma"
 
 print("")
